@@ -1,16 +1,24 @@
-### Hi there 👋
+# Sebastián Morales :dragon:
+## Python Developer and QA Engineer
+### Introduction
+> To do.
 
-<!--
-**sebasmd-projects/sebasmd-projects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Skills
+#### Platforms
+> To do.
 
-Here are some ideas to get you started:
+#### Technologies
+> To do.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Soft Skills
+> To do.
+
+### 📫 How to reach me:
+- [LinkedIn](https://www.linkedin.com/in/sebasti%C3%A1n-morales-delgado-33902b1a1/)
+- [Gmail](mailto:sebasmoralesd@gmail.com)
+
+### Other things
+- 🌱 I’m currently learning Machine Learning
+- 👯 I’m looking to collaborate on python django projects
+- 💬 Ask me about python
+- ⚡ Fun fact: My life <3
