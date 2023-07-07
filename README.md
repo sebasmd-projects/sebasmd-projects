@@ -6,13 +6,13 @@ I'm an experienced developer specializing in web development with Django and var
 I apply agile methodologies, best practices, and actively engage with clients to analyze requirements and incorporate necessary technical updates.
 
 Additionally, I have expertise in designing and implementing automated testing frameworks using Cypress, Selenium, and languages such as Java, Python, or C#.
-<div style="text-align: center;">
-<h3> Skills </h3>
-</div>
-<h4> Platforms </h4>
+
+### Skills
+
+#### Platforms
 
 
-|  	            |            	|            	|              	|                        	|
+|  	   .      |       .     |       .    	|       .       |           .             |
 |:---------:	|------------	|------------	|--------------	|------------------------	|
 |    Jira   	| Confluence 	|   Trello   	|    Postman   	|          Wrike         	|
 |   GitHub  	|   GitLab   	| SourceTree 	| Browserstack 	| Team Foundation Server 	|
@@ -20,17 +20,17 @@ Additionally, I have expertise in designing and implementing automated testing f
 
 #### Technologies
 
-|           |               |           |              	|               |
+|     .     |       .       |      .    |       .       |       .       |
 |:-----:    |------------   |---------  |--------------	|--------------	|
 |   Python  |   Java        |   C#      |   Cucumber    |   DRF         |
 |   Pytest  |   Django      |   JUnit   |   Selenium  	|   JavaScript  |
 |   Git     |   REST/API    |   Numpy   |   Pandas 	    |   Docker      |
-|           |   Cypress     |   Locust  |   Jenkins 	|               |
+|           |   Cypress     |   Locust  |   Jenkins 	  |               |
 
 
 #### Databases
 
-|           |               |           |
+|     .     |       .       |     .     |
 |:-----:    |------------   |---------  |
 |   MongoDB |   PostgreSQL  |   MySQL   |
 
