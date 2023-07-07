@@ -60,3 +60,6 @@ presenting findings concisely and clearly.
 - 👯 I’m looking to collaborate on python django projects
 - 💬 Ask me about python
 - ⚡ Fun fact: My life <3
+
+# My resume? 
+## [Click me to see it](https://sebasmoralesd.com/cv-sebastian-morales.pdf)
