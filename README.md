@@ -57,7 +57,7 @@ presenting findings concisely and clearly.
 
 ### Other things
 - 🌱 I’m currently learning Machine Learning
-- 👯 I’m looking to collaborate on python django projects
+- 👯 I’m looking to collaborate on python or django projects
 - 💬 Ask me about python
 - ⚡ Fun fact: My life <3
 
